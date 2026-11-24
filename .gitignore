@@ -1,0 +1,9 @@
+# Archives & temp office files
+*.zip
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# OS clutter
+.DS_Store
+Thumbs.db
